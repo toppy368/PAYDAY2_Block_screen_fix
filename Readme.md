@@ -5,5 +5,10 @@
 本專案選用的授權方式為GNU General Public License v2.0，詳情請訪問本目錄的LICENSE.txt檔案
 本專案"全部"的文件皆適用此授權檔，包含整個PAYDAY2_Block_screen_fix主資料夾、及裏頭的Backup資料夾
 
-##使用方法
-PAYDAY2螢幕設定檔所在路徑：
+##如何找到螢幕設定檔
+1. 透過SETAM下載PAYDAY2並安裝完成後，並執行它，如果成功啟動(只要有遊戲畫面，就算黑屏也算)就會在以下路徑生成螢幕設定檔
+
+路徑：C:\Users\ID\AppData\Local\PAYDAY 2
+說明：請將ID改成自己電腦的帳號名稱
+
+2. 在Local資料夾找到PAYDAY2資料夾，並找到renderer_settings.xml設定檔
