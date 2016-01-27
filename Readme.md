@@ -13,3 +13,17 @@
 
 路徑：C:\Users\ID\AppData\Local\PAYDAY 2
 路徑說明：請將ID改成自己電腦的帳號名稱
+
+
+
+
+#Backup資料夾說明
+裏頭有兩個檔案，分別為...
+renderer_settings_original.xml
+renderer_settings_new.xml
+
+作用說明：
+renderer_settings_original.xml：為下載Payday2並安裝完成後，系統所生成出來的xml螢幕配置設定檔，預設為全螢幕
+renderer_settings_new.xml：為修改版xml螢幕配置設定檔，設定為視窗模式
+
+如果要套用其中一個，請先複製到自己熟悉的資料夾(或桌面)，變更為renderer_settings.xml，再按照前面步驟複製並覆蓋原始檔即可
